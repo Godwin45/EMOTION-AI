@@ -53,6 +53,11 @@ This is shown by the high accuracy achieved on the test data
  
  ![CONV INS](https://user-images.githubusercontent.com/71969710/135450616-182b90a1-97b7-4bac-866d-a640c33d5cd8.JPG)
  
+ ## COMBINATION RESULT OF FACAL KEYPOINTS AND FACIAL EXPRESSIONS
+ 
+ ![combine](https://user-images.githubusercontent.com/71969710/135451703-a1857f2f-61d7-4578-9e67-353f2a29c58f.JPG)
+
+ 
  From the above model. It is clearly shown that Artificial intelligence has played a significant role in the field of Computer vision.
 
 
